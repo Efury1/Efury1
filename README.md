@@ -1,6 +1,6 @@
 Hi 👋, I Am Eliza
 
-I am a Computer Scientist interest in Web Development.
+I am a Computer Scientist interested in Web Development.
 
 Currently Developer in Brisbane City, focusing on HR analytics.
 
