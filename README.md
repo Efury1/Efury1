@@ -18,6 +18,6 @@ ___________________________________________________________________
 
 ### Contact
 
-Please feel free to get in touch👸 [Email](ejfury@protonmail.com)
+Please feel free to get in touch via LinkedIn👸 
 
 ####
