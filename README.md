@@ -12,11 +12,10 @@ My previously work has involved a Swift application at the QUT biofabrication La
 
 
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
-
 <a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
 
 ### Contact
 
-👨🏻‍💻Please feel free to get in touch💁🏻‍♂️ [Email](ejfury@protonmail.com)
+Please feel free to get in touch👸 [Email](ejfury@protonmail.com)
 
 ####
