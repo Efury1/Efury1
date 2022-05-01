@@ -4,8 +4,9 @@ I am a Computer Scientist interested in Web Development.
 
 Currently a Developer in Brisbane City, focusing on HR analytics.
 
-Follow my twitter if you've interest in seeing tweet about my progress in 100 Days of coding.
 <a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+Follow my twitter if you've interest in seeing tweet about my progress in 100 Days of coding.
+
 
 
 ___________________________________________________________________
