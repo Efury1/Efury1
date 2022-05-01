@@ -2,7 +2,7 @@ Hi 👋, I Am Eliza
 
 I am a Computer Scientist interested in Web Development.
 
-Currently Developer in Brisbane City, focusing on HR analytics.
+Currently a Developer in Brisbane City, focusing on HR analytics.
 
 I'm currently doing 100 Days of coding, so watch this space!
 
