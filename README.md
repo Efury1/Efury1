@@ -1,13 +1,10 @@
   <h1 align= 'center'> Hello, I'm Eliza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <p align="center"> I'm a Computer Science Student interested in Web Development</u></p>
  
-### <h3> About me: </h3>
-
 <br>
 <div align="center">
--  Brisbane City
--  Finished Computer Science at QUT
--  Learning through Udemy and Epic React Course
+### <h3> About me: </h3>
+Brisbane City, finished Computer Science at QUT and learning through Udemy and Epic React Course.
 
 <br>
 
