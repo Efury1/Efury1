@@ -5,7 +5,7 @@
 <div align="center">
 ### <h3> About me: </h3>
 Brisbane City, finished Computer Science at QUT and learning through Udemy and Epic React Course.
-
+<br>
 <br>
 
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
