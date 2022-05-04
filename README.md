@@ -5,7 +5,7 @@
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
+<a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
 Brisbane City Developer focusing on HR analytics.
 
 <a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
