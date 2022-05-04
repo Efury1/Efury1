@@ -8,7 +8,7 @@
 -  Brisbane City
 -  Finished Computer Science at QUT
 -  Learning through Udemy and Epic React Course
-</div>
+
 <br>
 
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
@@ -16,6 +16,8 @@ Brisbane City Developer focusing on HR analytics.
 
 <a href="https://twitter.com/FuryEliza" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
 Follow my twitter if you've interest in seeing tweets about my progress in 100 Days of code.
+</div>
+  
 
 
 
