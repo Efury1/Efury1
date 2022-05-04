@@ -4,7 +4,7 @@
 ### <h3> About me: </h3>
 
 <div align="left">
-img align="left" alt="HTML5" width="26px"
+
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
 Brisbane City Developer focusing on HR analytics.
 
