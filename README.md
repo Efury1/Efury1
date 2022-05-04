@@ -3,12 +3,13 @@
  
 ### <h3> About me: </h3>
 
-<div align="left">
-
+<br>
+<div align="center">
 -  Brisbane City
 -  Finished Computer Science at QUT
 -  Learning through Udemy and Epic React Course
 </div>
+<br>
 
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
 Brisbane City Developer focusing on HR analytics.
