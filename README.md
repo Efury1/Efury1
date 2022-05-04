@@ -15,8 +15,6 @@ Brisbane City Developer focusing on HR analytics.
 
 My previously work has involved a Swift application at the QUT biofabrication Lab called EarScanner which allows individuals born with microtia to have access to the creation of their own prosthetic ear. 
 
-</div>
-
 ### Contact
 
 Please feel free to get in touch via LinkedIn👸 
@@ -24,3 +22,4 @@ Please feel free to get in touch via LinkedIn👸
 ####
 
 <img src="https://api.daily.dev/devcards/dbb0ab889c0147c799b535fc5db44426.png?r=ijm" width="200" alt="Eliza Fury's Dev Card" /></a>
+</div>
