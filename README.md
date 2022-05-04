@@ -1,9 +1,8 @@
   <h1 align= 'center'> Hello, I'm Eliza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <p align="center"> I'm a Computer Science Student interested in Web Development</u></p>
-    
+ 
+<img align="left"
 ### <h3> About me: </h3>
-
-<div align="left">
 
 <a href="https://www.linkedin.com/in/eliza-fury-3004b3110/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a> 
 Brisbane City Developer focusing on HR analytics.
