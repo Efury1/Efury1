@@ -2,7 +2,7 @@
     <p align="center"> I'm a Computer Science Student interested in Web Development</u></p>
  
 <br>
-<div align="center">
+<div align="left">
 <h3> About me: </h3>
 Brisbane City, finished Computer Science at QUT and learning through Udemy and Epic React Course.
 <br>
