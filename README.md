@@ -1,10 +1,10 @@
   <h1 align= 'center'> Hello, I'm Eliza </h1>
-    <p align="center"> I'm a Computer Science Student interested in Web Development</u></p>
+    <p align="center"> Full time frontend developer at OneModel and a part time student studing a Graduate Certificate of Data Analytics. </u></p>
  
 <br>
 <div align="left">
 <h3> About me: </h3>
-Brisbane City, finished Computer Science at QUT and learning through Udemy and Epic React Course.
+I'm a dedicated frontend developer who loves thinking about design when building applications. 
 <br>
 <br>
 
