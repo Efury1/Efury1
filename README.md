@@ -1,7 +1,7 @@
 
-    <p align="center">Hello! My name is Eliza, and I am a passionate frontend programmer with a strong focus on accessibility. I believe that technology should be inclusive and strive to create user-friendly experiences that are accessible to everyone. </p>
+<p align="center"> Hello! My name is Eliza, and I am a passionate frontend programmer with a strong focus on accessibility. I believe that technology should be inclusive and strive to create user-friendly experiences that are accessible to everyone. 
   
-   <p align="center">In addition to my programming skills, I have a minor in Industrial Design, which has equipped me with a keen eye for aesthetics and a deep understanding of user-centered design principles. I enjoy combining my technical expertise with my design background to create visually appealing and intuitive interfaces that enhance the user experience.
+In addition to my programming skills, I have a minor in Industrial Design, which has equipped me with a keen eye for aesthetics and a deep understanding of user-centered design principles. I enjoy combining my technical expertise with my design background to create visually appealing and intuitive interfaces that enhance the user experience.
 
 Furthermore, I have also pursued my interest in fashion and technology by completing an Advanced Diploma in Fashion and Technology. This unique blend of skills allows me to bring a fresh perspective to my work, incorporating innovative and creative elements into my designs.
 
