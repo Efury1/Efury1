@@ -14,6 +14,9 @@
 
 __________________________________________
 
-  <p align="center"> Previously, I worked on an exciting project called EarScanner at the QUT Biofabrication Lab. This Swift application was designed to assist individuals born with microtia in creating their own prosthetic ear, providing them with enhanced accessibility. </p>
+<h2 align="center">Project I'm proud of working on </h2>
+  <p align="center"> EarScanner application at the QUT Biofabrication Lab. This Swift application was designed to assist individuals born with microtia in creating their own prosthetic ear, providing them with enhanced accessibility. </p>
+  <p align="center"> Accessibility for OneModel </p>
+  
   
 _________________________________________
