@@ -1,6 +1,13 @@
-  <h1 align= 'center'> Hello, I'm Eliza </h1>
-    <p align="center"> Full time frontend developer at OneModel and student studying a Graduate Certificate of Data Analytics. </u></p>
+
+    <p align="center">Hello! My name is Eliza, and I am a passionate frontend programmer with a strong focus on accessibility. I believe that technology should be inclusive and strive to create user-friendly experiences that are accessible to everyone. </u></p>
   
+   <p align="center">In addition to my programming skills, I have a minor in Industrial Design, which has equipped me with a keen eye for aesthetics and a deep understanding of user-centered design principles. I enjoy combining my technical expertise with my design background to create visually appealing and intuitive interfaces that enhance the user experience.
+
+Furthermore, I have also pursued my interest in fashion and technology by completing an Advanced Diploma in Fashion and Technology. This unique blend of skills allows me to bring a fresh perspective to my work, incorporating innovative and creative elements into my designs.
+
+With a strong commitment to staying up-to-date with the latest industry trends and best practices, I am constantly expanding my knowledge and honing my skills to deliver cutting-edge solutions. I am driven by the desire to make a positive impact through my work and create digital experiences that are not only functional but also delightful to use.
+
+Overall, my diverse background in frontend programming, accessibility, industrial design, and fashion and technology enables me to approach projects from multiple angles and deliver solutions that are both visually appealing and user-friendly. I am excited to collaborate with like-minded individuals and organizations to create inclusive and impactful digital experiences. make this shorter.</p>
 
 __________________________________________
 
