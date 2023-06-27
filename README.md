@@ -1,5 +1,6 @@
 
-<h1 align="center"> Hello! My name is Eliza, and I am a passionate frontend programmer with a strong focus on accessibility. 👋 </h1>
+<h1 align="center"> Hello! My name is Eliza </h1>
+<h2 align="center">I am a passionate frontend programmer with a strong focus on accessibility. 👋 </h2>
   
 <p align="center"> I believe that technology should be inclusive and strive to create user-friendly experiences that are accessible to everyone. </p>
   
