@@ -8,7 +8,7 @@ I'm a passionate programmer who loves to learn through coding, making videos and
 
 - 🌱 I'm currently learning a Text-Based Adventure.
 - 💼 I work at OneModel.
-- 🤝 I'm open to collaboration and looking for new opportunities.
+- 🤝 I'm open to collaboration on projects.
 
 ## My Interests
 
