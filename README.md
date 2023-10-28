@@ -1,6 +1,6 @@
 # Hello, I'm Eliza 👋
 
-![Banner Image](link_to_your_banner_image.png)
+![Banner Image](srteertrtyrtyrty (7).png)
 
 I'm a passionate programmer who loves to learn through coding, making videos and writing. Welcome to my GitHub profile!
 
