@@ -32,9 +32,9 @@ I'm familiar with a variety of programming languages, tools, and technologies, i
 
 ## Look at my socials 
 
-- Youtube: [Youtube] (https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
-- Medium: [Medium] (https://medium.com/@girlchronicallyonline)
-- Twitch: [Twitch] (https://www.twitch.tv/girlchronicallyonline)
+- Youtube: [Youtube](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
+- Medium: [Medium](https://medium.com/@girlchronicallyonline)
+- Twitch: [Twitch](https://www.twitch.tv/girlchronicallyonline)
 
 Let's connect and collaborate! Feel free to reach out if you have any questions or just want to chat.
 
