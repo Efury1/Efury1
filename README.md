@@ -21,10 +21,8 @@ I'm a passionate programmer who loves to learn through coding, making videos and
 
 I'm familiar with a variety of programming languages, tools, and technologies, including:
 
-- 💡 Programming: [List Some Programming Languages]
-- 🛠️ Tools: [List Some Tools and Frameworks]
-- 🏭 Databases: [List Some Databases]
-- 🌐 Web Technologies: [List Some Web Technologies]
+- 💡 Programming: [Swift, Javascript, and Python]
+- 🛠️ Tools: [Frameworks like React and testing on Cypress]
 
 ## Get in Touch
 
@@ -34,7 +32,7 @@ I'm familiar with a variety of programming languages, tools, and technologies, i
 
 - Youtube: [Youtube](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
 - Medium: [Medium](https://medium.com/@girlchronicallyonline)
-- Watch me code every Twitch: [Twitch](https://www.twitch.tv/girlchronicallyonline)
+- Watch me code every Friday: [Twitch](https://www.twitch.tv/girlchronicallyonline)
 
 
 Let's connect and collaborate! Feel free to reach out if you have any questions or just want to chat.
