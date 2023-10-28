@@ -30,6 +30,11 @@ I'm familiar with a variety of programming languages, tools, and technologies, i
 
 - Email: [My email](elizalikescode@gmail.com)
 
+## Look at my socials 
+
+- Youtube: [Youtube]([Youtube](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
+- Medium: [Medium]([Medium](https://medium.com/@girlchronicallyonline)
+
 Let's connect and collaborate! Feel free to reach out if you have any questions or just want to chat.
 
 Thanks for visiting my GitHub profile! 😄
