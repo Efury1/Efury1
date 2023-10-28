@@ -28,7 +28,7 @@ I'm familiar with a variety of programming languages, tools, and technologies, i
 
 ## Get in Touch
 
-- Email: [Your Email Address](elizalikescode@gmail.com)
+- Email: [My email](elizalikescode@gmail.com)
 
 Let's connect and collaborate! Feel free to reach out if you have any questions or just want to chat.
 
