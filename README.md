@@ -1,6 +1,6 @@
 # Hello, I'm Eliza 👋
 
-![Banner Image](https://github.com/Efury1/githubImages/commit/8196b9b8e8291f0368aeb8a9220f4157fc9d66ca?short_path=471da35#diff-471da357e0f885df6204d62e902ace8369b6b777ccdc52bd6dbe9e9602d29302)
+![Banner Image](https://github.com/Efury1/githubImages/blob/main/srteertrtyrtyrty%20(7).png)
 
 I'm a passionate programmer who loves to learn through coding, making videos and writing. Welcome to my GitHub profile!
 
