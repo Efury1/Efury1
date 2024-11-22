@@ -7,7 +7,7 @@ I'm a passionate programmer who loves to learn through coding, making videos and
 ## About Me
 
 - 🌱 I'm currently learning a Text-Based Adventure.
-- 💼 I work at OneModel.
+- 💼 I work at OneModel, but I’ll be moving to the UK in February 2025 and am open to exciting new roles.
 - 🤝 I'm open to collaboration on projects.
 
 ## My Interests
