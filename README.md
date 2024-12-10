@@ -35,7 +35,7 @@ I strive to integrate accessibility and ethical considerations into every projec
 
 ## Get in Touch
 
-- 📧 **Email**: [elizalikescode@gmail.com](mailto:elizalikescode@gmail.com)
+- 📧 **Email**: [ejfury@protonmail.com](mailto:ejfury@protonmail.com)
 
 ---
 
