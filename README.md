@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 
 ---
 
-## My programming practise
+## My Programming Practice
 I've recently started LeetCode, so my journey will be updated here.
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=EJFury1&theme=dark&cache_bust=1)](https://leetcode.com/EJFury1/)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ejfury1&theme=dark)](https://leetcode.com/ejfury1/)
 
 ---
 
