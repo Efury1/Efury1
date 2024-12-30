@@ -27,17 +27,9 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 
 ## My Tech Stack
 
-I have experience working with a variety of programming languages, frameworks, and tools:
-
-- 💡 **Programming Languages**: [JavaScript, Python, Swift, C#, Ruby on Rails, R]
-- 🛠️ **Frameworks & Tools**: [React, TypeScript, Cypress, and ARIA standards for accessibility testing]
-
-I strive to integrate accessibility and ethical considerations into every project I work on.
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
 
 ---
 
