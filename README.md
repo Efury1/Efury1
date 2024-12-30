@@ -21,6 +21,21 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/girlchronicallyonline)
 ---
 
+# 📺 Featured YouTube Videos
+
+### 🎥 [Exploring Nostalgia: Girl Tech Video Journal](https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s)
+[![Exploring Nostalgia: Girl Tech Video Journal](https://img.youtube.com/vi/N73EDqPEJTw/0.jpg)](https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s)
+
+### 🎥 [Coding Adventures: React for Beginners](https://www.youtube.com/watch?v=acHNolwi39s&t=7s)
+[![Coding Adventures: React for Beginners](https://img.youtube.com/vi/acHNolwi39s/0.jpg)](https://www.youtube.com/watch?v=acHNolwi39s&t=7s)
+
+
+### 🎥 [Deep Dive into Ethical AI](https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s)
+[![Deep Dive into Ethical AI](https://img.youtube.com/vi/hdtDpbHnw38/0.jpg)](https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s)
+
+---
+
+
 ## Let's Create Together!
 I’m always looking for opportunities to collaborate on impactful projects. Whether it’s ethical AI, accessible tech, or creative coding, I’d love to hear from you! Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eliza-fury-3004b3110/), on email me at [ejfury@protonmail.com](mailto:ejfury@protonmail.com)
 
