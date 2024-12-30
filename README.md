@@ -34,6 +34,9 @@ I have experience working with a variety of programming languages, frameworks, a
 
 I strive to integrate accessibility and ethical considerations into every project I work on.
 
+![Languages](https://img.shields.io/github/languages/top/Efury1/repository-name?color=brightgreen)
+
+
 ---
 
 ## Get in Touch
