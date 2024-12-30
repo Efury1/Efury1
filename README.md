@@ -1,27 +1,9 @@
 # Hello, I'm Eliza 👋
 
 
-Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning, creating, and advocating for ethical coding and accessibility in tech. 
-
----
-
-## About Me
+Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in leveraging technology to build creative and engaging projects. Lately, I've been diving into data analytics and ethical AI, which are reflected in my pinned repositories. Currently, I work at OneModel, but in February 2025, I’ll be relocating to the UK. I’m thrilled about the opportunity to explore new roles that align with my passions for coding, ethical development, and accessibility.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
-
-
-- 🌱 **Currently Exploring**: Data Analytics and AI Ethics, with a focus on creating inclusive and ethical software solutions.
-- 💼 **Professional Journey**: I work at OneModel but will be moving to the UK in February 2025. I'm excited about exploring new roles that align with my passion for all things code, or ethical development and accessibility.
-- 🤝 **Collaboration**: Open to contributing to projects that prioritize inclusivity, sustainability, and ethical AI practices.
-
----
-
-## My Interests
-
-- 🌍 **Ethics in Technology**: Advocating for responsible AI and software development practices that prioritize fairness and transparency.
-- ♿ **Accessibility in Tech**: Ensuring digital products are usable by everyone, including individuals with disabilities.
-- 💻 **Software Development**: Building user-centered applications with modern frameworks and tools.
-
 ---
 
 ## My Tech Stack
