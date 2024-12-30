@@ -41,9 +41,8 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 
 ## Look at My Socials
 
-- 🎥 **YouTube**: [YouTube Channel](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
-- ✍️ **Medium**: [Medium Blog](https://medium.com/@girlchronicallyonline)  
-  *Exploring topics the history of technology and learning about different coding concepts.*
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white)](https://medium.com/@girlchronicallyonline)
 - 🎮 **Twitch**: [Twitch Livestreams](https://www.twitch.tv/girlchronicallyonline)  
 
 ---
