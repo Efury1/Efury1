@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 ## My programming practise
 I've recently started LeetCode, so my journey will be updated here.
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ejury1&theme=dark)](https://leetcode.com/Ejfury1/)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=EJFury1&theme=dark&cache_bust=1)](https://leetcode.com/EJFury1/)
 
 ---
 
