@@ -43,8 +43,7 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
 [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white)](https://medium.com/@girlchronicallyonline)
-- 🎮 **Twitch**: [Twitch Livestreams](https://www.twitch.tv/girlchronicallyonline)  
-
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/girlchronicallyonline)
 ---
 
 ## Let's Connect!
