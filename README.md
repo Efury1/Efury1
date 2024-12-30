@@ -21,26 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/girlchronicallyonline)
 ---
 
-# 📺 Featured YouTube Videos
-
-### 🎥 [Exploring Nostalgia: Girl Tech Video Journal](https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s)
-<a href="https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s">
-  <img src="https://img.youtube.com/vi/N73EDqPEJTw/0.jpg" alt="Exploring Nostalgia: Girl Tech Video Journal" width="300">
-</a>
-
-
-### 🎥 [Coding Adventures: React for Beginners](https://www.youtube.com/watch?v=acHNolwi39s&t=7s)
-<a href="https://www.youtube.com/watch?v=acHNolwi39s&t=7s">
-  <img src="https://img.youtube.com/vi/acHNolwi39s/0.jpg" alt="Coding Adventures: React for Beginners" width="300">
-</a>
-
-
-### 🎥 [Deep Dive into Ethical AI](https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s)
-<a href="https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s">
-  <img src="https://img.youtube.com/vi/hdtDpbHnw38/0.jpg" alt="Deep Dive into Ethical AI" width="300">
-</a>
-
----
+##📺 Featured YouTube Videos
 
 <div align="center"> <a href="https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s"> <img src="https://img.youtube.com/vi/N73EDqPEJTw/0.jpg" alt="Exploring Nostalgia: Girl Tech Video Journal" width="200"> </a> <a href="https://www.youtube.com/watch?v=acHNolwi39s&t=7s"> <img src="https://img.youtube.com/vi/acHNolwi39s/0.jpg" alt="Coding Adventures: React for Beginners" width="200"> </a> <a href="https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s"> <img src="https://img.youtube.com/vi/hdtDpbHnw38/0.jpg" alt="Deep Dive into Ethical AI" width="200"> </a> </div>
 
