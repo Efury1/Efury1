@@ -14,6 +14,13 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 
 ---
 
+## My programming practise
+I've recently started LeetCode, so my journey will be updated here.
+
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=EJFury1&theme=dark)](https://leetcode.com/EJFury1/)
+
+---
+
 ## Look at My Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
