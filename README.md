@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 
 ---
 
-## Get in Touch
-
-- 📧 **Email**: [ejfury@protonmail.com](mailto:ejfury@protonmail.com)
-
----
-
 ## Look at My Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
@@ -28,5 +22,5 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 ---
 
 ## Let's Create Together!
-I’m always looking for opportunities to collaborate on impactful projects. Whether it’s ethical AI, accessible tech, or creative coding, I’d love to hear from you! Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eliza-fury-3004b3110/).
+I’m always looking for opportunities to collaborate on impactful projects. Whether it’s ethical AI, accessible tech, or creative coding, I’d love to hear from you! Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eliza-fury-3004b3110/), on email me **Email**: [ejfury@protonmail.com](mailto:ejfury@protonmail.com)
 
