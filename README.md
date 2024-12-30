@@ -1,6 +1,6 @@
 # Hello, I'm Eliza 👋
 
-![Banner Image](https://github.com/Efury1/githubImages/blob/main/srteertrtyrtyrty%20(7).png)
+![Banner Image](https://github.com/Efury1/githubImages/blob/main/srteertrtyrtyrty%20(7).png | height=200)
 
 Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning, creating, and advocating for ethical coding and accessibility in tech. 
 
