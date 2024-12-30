@@ -42,6 +42,8 @@ Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in
 
 ---
 
+<div align="center"> <a href="https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s"> <img src="https://img.youtube.com/vi/N73EDqPEJTw/0.jpg" alt="Exploring Nostalgia: Girl Tech Video Journal" width="200"> </a> <a href="https://www.youtube.com/watch?v=acHNolwi39s&t=7s"> <img src="https://img.youtube.com/vi/acHNolwi39s/0.jpg" alt="Coding Adventures: React for Beginners" width="200"> </a> <a href="https://www.youtube.com/watch?v=hdtDpbHnw38&t=333s"> <img src="https://img.youtube.com/vi/hdtDpbHnw38/0.jpg" alt="Deep Dive into Ethical AI" width="200"> </a> </div>
+
 
 ## Let's Create Together!
 I’m always looking for opportunities to collaborate on impactful projects. Whether it’s ethical AI, accessible tech, or creative coding, I’d love to hear from you! Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/eliza-fury-3004b3110/), on email me at [ejfury@protonmail.com](mailto:ejfury@protonmail.com)
