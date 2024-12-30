@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 
 ## My Tech Stack
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
+
 I have experience working with a variety of programming languages, frameworks, and tools:
 
 - 💡 **Programming Languages**: [JavaScript, Python, Swift, C#, Ruby on Rails, R]
