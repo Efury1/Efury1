@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 
 ## About Me
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
+
+
 - 🌱 **Currently Exploring**: Data Analytics and AI Ethics, with a focus on creating inclusive and ethical software solutions.
 - 💼 **Professional Journey**: I work at OneModel but will be moving to the UK in February 2025. I'm excited about exploring new roles that align with my passion for all things code, or ethical development and accessibility.
 - 🤝 **Collaboration**: Open to contributing to projects that prioritize inclusivity, sustainability, and ethical AI practices.
@@ -23,8 +26,6 @@ Welcome to my GitHub profile! I'm a passionate programmer dedicated to learning,
 ---
 
 ## My Tech Stack
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
 
 I have experience working with a variety of programming languages, frameworks, and tools:
 
