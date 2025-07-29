@@ -1,6 +1,6 @@
 # Hello, I'm Eliza 👋
 
-Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in using technology to build creative and engaging projects. Lately, I've been diving into data analytics and ethical AI, which are reflected in my pinned repositories. I currently live in the UK, around Norwich, and I'm actively looking for opportunities that align with my passions for coding, ethical development, and accessibility. I'm excited to explore new roles where I can continue to grow and contribute to impactful projects.
+Welcome to my GitHub profile! I'm a dedicated programmer with a keen interest in using technology to build creative and engaging projects. Lately, I've been diving into data analytics and ethical AI, which are reflected in my pinned repositories. I currently live in the UK, around Norwich, and I'm currently working in Javascript, and SASS. 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
