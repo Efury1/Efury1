@@ -1,7 +1,7 @@
 
 # Heyyy, I’m Eliza 👋✨
 
-I’m an **Australian dev** now based in **Norwich, UK** 🇬🇧. Right now, I’m working at **Norfolk County Council** on an **ICM system with Goss**.
+I’m an **Australian dev** now based in **Norwich, UK** 🇬🇧. Right now, I’m working at **Norfolk County Council** on an **CMS system with Goss**.
 
 I’m mainly a **frontend nerd** (JavaScript, React, Sass, making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**, all that structured goodness 🧅.
 
