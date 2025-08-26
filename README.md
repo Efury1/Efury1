@@ -3,11 +3,11 @@
 
 I’m an **Australian dev** now based in **Norwich, UK** 🇬🇧. Right now, I’m working at **Norfolk County Council** on an **ICM system with Goss**.
 
-I’m mainly a **frontend nerd** (JavaScript, React, Sass — making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work — APIs in **C# with onion architecture**, all that structured goodness 🧅.
+I’m mainly a **frontend nerd** (JavaScript, React, Sass, making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**, all that structured goodness 🧅.
 
 Before this, I was at **One Model**, building with **React, TypeScript, and C#**. Along the way, I picked up studies in **data analytics + ethical AI**, because tech should be smart *and* responsible 💡.
 
-And fun twist: I actually started out in **design** 🎨 — from **fashion** 👗 to **industrial design** 🛠️ — so I care a *lot* about how things look, feel, and flow.
+And fun twist: I actually started out in **design** 🎨 from **fashion** 👗 to **industrial design** 🛠️ So, I care a *lot* about how things look, feel, and flow.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
 
