@@ -1,13 +1,13 @@
 
-# Heyyy, I’m Eliza 👋✨
+# Heyyy, I’m Eliza 👋
 
-I’m an **Australian dev** now based in **Norwich, UK** 🇬🇧. Right now, I’m working at **Norfolk County Council** on an **CMS system with Goss**.
+I’m an **Australian dev** now based in **Norwich, UK**. Right now, I’m working at **Norfolk County Council** on an **CMS system with Goss**.
 
-I’m mainly a **frontend nerd** (JavaScript, React, Sass, making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**, all that structured goodness 🧅.
+I’m mainly a **frontend nerd** (JavaScript, React, Sass, making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**, all that structured goodness.
 
 Before this, I was at **One Model**, building with **React, TypeScript, and C#**. Along the way, I picked up studies in **data analytics + ethical AI**, because tech should be smart *and* responsible 💡.
 
-And fun twist: I actually started out in **design** 🎨 from **fashion** 👗 to **industrial design** 🛠️ So, I care a *lot* about how things look, feel, and flow.
+And fun twist: I actually started out in **design** from **fashion** to **industrial design** So, I care a *lot* about how things look, feel, and flow.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
 
@@ -21,15 +21,15 @@ And fun twist: I actually started out in **design** 🎨 from **fashion** 👗 t
 
 ---
 
-## 🚀 Leveling Up
+## Leveling Up
 
-Currently grinding **LeetCode** to sharpen my brain 🧠 and flex my problem-solving muscles:
+Currently grinding **LeetCode** to sharpen my brain and flex my problem-solving muscles:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ejfury1?theme=dark)](https://leetcode.com/ejfury1/)
 
 ---
 
-## 🌐 Socials (where I hang out online)
+## Socials (where I hang out online)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
 [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium\&logoColor=white)](https://medium.com/@girlchronicallyonline)
@@ -37,7 +37,7 @@ Currently grinding **LeetCode** to sharpen my brain 🧠 and flex my problem-sol
 
 ---
 
-## 📺 Featured YouTube Vibes
+## Featured YouTube Vibes
 
 <div align="center"> 
   <a href="https://www.youtube.com/watch?v=N73EDqPEJTw&t=3s"> 
