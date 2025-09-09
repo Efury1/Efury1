@@ -1,13 +1,12 @@
 
 # Heyyy, I’m Eliza 👋
 
-I’m an **Australian dev** now based in **Norwich, UK**. Right now, I’m working at **Norfolk County Council** on an **CMS system with Goss**.
+I’m an **Australian developer** now based in **Norwich, UK**. Right now, I’m working at **Norfolk County Council** on an **CMS system called Goss**.
 
-I’m mainly a **frontend nerd** (JavaScript, React, Sass, making things ✨aesthetic✨ *and* usable), but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**, all that structured goodness.
+I’m mainly a **frontend developer** (JavaScript, React, Sass, but I’ve also done my fair share of backend work, APIs in **C# with onion architecture**)
 
-Before this, I was at **One Model**, building with **React, TypeScript, and C#**. Along the way, I picked up studies in **data analytics + ethical AI**, because tech should be smart *and* responsible.
+Before this, I was at **One Model**, building with **React, TypeScript, and C#**. Along the way, I picked up studies in **data analytics + ethical AI**.
 
-And fun twist: I actually started out in **design** from **fashion** to **industrial design** So, I care a *lot* about how things look, feel, and flow.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Efury1)](https://git.io/streak-stats)
 
@@ -56,7 +55,6 @@ Currently grinding **LeetCode** to sharpen my brain and flex my problem-solving 
 ## Let’s Build Something Cool
 
 Always down to collab on projects that are **creative**, **impactful**, and maybe even a little chaotic in the best way.
-Think **ethical AI**, **accessible tech**, or just something that makes people go “woah, that’s neat.”
 
 📩 Hit me up on [LinkedIn](https://www.linkedin.com/in/eliza-fury-3004b3110/) or email me at [ejfury@protonmail.com](mailto:ejfury@protonmail.com).
 
