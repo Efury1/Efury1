@@ -33,6 +33,10 @@ Currently grinding **LeetCode** to sharpen my brain and flex my problem-solving 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
 [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium\&logoColor=white)](https://medium.com/@girlchronicallyonline)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch\&logoColor=white)](https://www.twitch.tv/girlchronicallyonline)
+[![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/girlycodergirl/)  
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/your-work)
+
+
 
 ---
 
