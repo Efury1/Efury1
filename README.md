@@ -2,10 +2,10 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  C:\USERS\ELIZA> whoami                   ║
-║  ──────────────────────────────────────   ║
-║  Frontend Developer . Norwich, UK         ║
-║  Status: Online                           ║
+║  C:\USERS\ELIZA> Who Am I                ║
+║  ──────────────────────────────────────  ║
+║  Frontend Developer . Norwich, UK        ║
+║  Status: Online                          ║
 ╚══════════════════════════════════════════╝
 ```
 
