@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════╝
 ```
 
-# Heyyy, I'm Eliza
+**Heyyy, I'm Eliza**
 
 **Australian developer** based in **Norwich, UK**.
 Working at **Norfolk County Council** on a CMS called **Goss**.
@@ -28,7 +28,7 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 
 <div align="center">
 
-## Tech Stack
+**Tech Stack**
 
 ```
 ┌─────────────┬─────────────────────────────────────────────┐
@@ -55,7 +55,7 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 
 <div align="center">
 
-## Leveling Up
+**Leveling Up**
 
 Currently grinding **LeetCode** to sharpen my brain and flex my problem
 solving muscles.
@@ -68,7 +68,7 @@ solving muscles.
 
 <div align="center">
 
-## Where I Hang Out Online
+**Where I Hang Out Online**
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
 [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white)](https://medium.com/@girlchronicallyonline)
