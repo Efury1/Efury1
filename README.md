@@ -29,11 +29,11 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 ## Tech Stack
 
 ```
-┌─────────────┬────────────────────────────────────────────────┐
-│ LANGUAGES   │ Python . JavaScript . TypeScript . Swift . C#  │
-│ FRAMEWORKS  │ React . Ruby on Rails                          │
-│ TOOLS       │ Git . Sass . Goss                              │
-└─────────────┴────────────────────────────────────────────────┘
+┌─────────────┬─────────────────────────────────────────────┐
+│ LANGUAGES   │ Python . JavaScript . TypeScript . Swift . C#│
+│ FRAMEWORKS  │ React . Ruby on Rails                        │
+│ TOOLS       │ Git . Sass . Goss                            │
+└─────────────┴─────────────────────────────────────────────┘
 ```
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -72,3 +72,13 @@ solving muscles.
 
 ---
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  Let's build something cool.              ║
+║  Creative . Impactful . A little chaotic  ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
