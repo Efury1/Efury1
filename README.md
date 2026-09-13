@@ -5,11 +5,11 @@
 ║  C:\USERS\ELIZA> whoami                   ║
 ║  ──────────────────────────────────────   ║
 ║  Frontend Developer . Norwich, UK         ║
-║  Status: Online 🟢                        ║
+║  Status: Online                           ║
 ╚══════════════════════════════════════════╝
 ```
 
-# 👋 Heyyy, I'm Eliza
+# Heyyy, I'm Eliza
 
 **Australian developer** based in **Norwich, UK**.
 Working at **Norfolk County Council** on a CMS called **Goss**.
@@ -26,7 +26,7 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 
 ---
 
-## 💾 Tech Stack
+## Tech Stack
 
 ```
 ┌─────────────┬────────────────────────────────────────┐
@@ -49,7 +49,7 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 
 ---
 
-## 📈 Leveling Up
+## Leveling Up
 
 Currently grinding **LeetCode** to sharpen my brain and flex my problem
 solving muscles.
@@ -58,7 +58,7 @@ solving muscles.
 
 ---
 
-## 🌐 Where I Hang Out Online
+## Where I Hang Out Online
 
 <div align="center">
 
