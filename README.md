@@ -26,6 +26,8 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 
 ---
 
+<div align="center">
+
 ## Tech Stack
 
 ```
@@ -47,7 +49,11 @@ Along the way, I picked up studies in **data analytics and ethical AI**.
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 ![Goss](https://img.shields.io/badge/-Goss-2C3E50?logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Leveling Up
 
@@ -56,29 +62,18 @@ solving muscles.
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ejfury1?theme=dark)](https://leetcode.com/ejfury1/)
 
----
-
-## Where I Hang Out Online
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
-[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white)](https://medium.com/@girlchronicallyonline)
-[![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/girlycodergirl/)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/your-work)
-[![Gitea](https://img.shields.io/badge/-Gitea-609926?logo=gitea&logoColor=white)](https://gitea.snowl.uk/ejfury1)
-
 </div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║  Let's build something cool.              ║
-║  Creative . Impactful . A little chaotic  ║
-╚══════════════════════════════════════════╝
-```
+## Where I Hang Out Online
+
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCwlIqh6VjXceir9BHMl_YQ)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white)](https://medium.com/@girlchronicallyonline)
+[![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/girlycodergirl/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/your-work)
+[![Gitea](https://img.shields.io/badge/-Gitea-609926?logo=gitea&logoColor=white)](https://gitea.snowl.uk/ejfury1)
 
 </div>
